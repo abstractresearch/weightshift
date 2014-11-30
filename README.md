@@ -8,7 +8,7 @@ We implement a framework that provides animators with the benefits of physical s
 
 ### Introduction
 
-Keyframe animation provides animators with full control over each nuance of a performance, however physical weight and interactions is difficult and time-consuming to achieve. Rigid-body simulation on the other hand provides animators with access to automatic distribution of weight and physical interaction, however it also strips them of control.
+Keyframe animation provides animators with full control over each nuance of a performance, however physical weight and interactions is difficult, time-consuming and error-prone; often resulting in many iterations of "aha moments" before finally reaching a physically plausible result. Rigid-body simulation on the other hand provides animators with access to automatic distribution of weight and physical interaction, however it also strips them of control.
 
 In this paper, we present a novel approach to character animation at interactive speeds that bridges these two extremes; by providing animators with the full gamut of physics-based simulation tools and without sacrificing their ability to control their performances. The result is more accurate results in less time and less iterations.
 
